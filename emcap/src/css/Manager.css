@@ -1,0 +1,12 @@
+.userpp {
+    display: inline-block;
+    width: 185px;
+    height: 185px;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    align-self: center;
+    margin-top: 15px;
+    margin-bottom: -50px;
+}
