@@ -1,0 +1,127 @@
+{
+  "employee": [
+    {
+      "name": "Chandana Shivakumar",
+      "designation": "Associate 1 Software Engineer",
+      "doj": "2022-07-26",
+      "empid": "46259082",
+      "skill": "SQL, React Js",
+      "primaryskill": ".Net, Angular",
+      "training": "Angular",
+      "location": "Bangalore",
+      "phone": "7338031601",
+      "photo": "https://thorntons-investments.co.uk/wp-content/uploads/2017/08/400x200.png",
+      "localgrade": "A4",
+      "peoplemanager": "Anuradha Sanghwan",
+      "startdate": "2023-03-06",
+      "enddate": "2023-04-26",
+      "bookingtype": "xxxxx",
+      "client": "xxxxx",
+      "baselocation": "Bangalore",
+      "segmentemployee": "xxxxx",
+      "elmapping": "xxxxx",
+      "skillgroup": "xxxxx",
+      "finalgrade": "xxxxx",
+      "ego": "xxxxxx",
+      "status": "1",
+      "review": "Excellant",
+      "reviewer": "Anuradha Sanghwan",
+      "reviewerdesignation": "Manager",
+      "reviewerphoto": "",
+      "feedbacktimestamp": "Wed Apr 12 2023 10:06:11 GMT+0530 (India Standard Time)",
+      "rating": 4,
+      "code": "100848647",
+      "assignmenttype": "Project",
+      "assignmentname": "EMCap",
+      "projectmanager": "Anuradha",
+      "id": 1
+    }
+  ],
+  "manager": [
+    {
+      "name": "Anuradha Sanghwan",
+      "designation": "Manager",
+      "location": "Gurgaon",
+      "phone": "8700925196",
+      "photo": "https://thorntons-investments.co.uk/wp-content/uploads/2017/08/400x200.png",
+      "id": 1,
+      "empid": "99990909"
+    }
+  ],
+  "feedback": [
+    {
+      "empid": "46259082",
+      "review": "Excellant",
+      "reviewer": "Anuradha Sanghwan",
+      "reviewerdesignation": "Manager",
+      "rating": 4,
+      "feedbacktimestamp": "Wed Apr 12 2023 10:06:11 GMT+0530 (India Standard Time)",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "empid": "46259082",
+      "review": "Good work. Focus on basics",
+      "reviewer": "Karthik",
+      "reviewerdesignation": "Trainer",
+      "rating": 5,
+      "feedbacktimestamp": "Wed Apr 12 2023 10:34:21 GMT+0530 (India Standard Time)"
+    }
+  ],
+  "project": [
+    {
+      "id": 1,
+      "empid": "46259082",
+      "assignmentname": "EMCap",
+      "assignmenttype": "Project",
+      "projectmanager": "Anuradha",
+      "code": "100848647",
+      "startdate": "2023-03-06",
+      "enddate": "2023-04-26"
+    },
+    {
+      "id": 2,
+      "empid": "46259082",
+      "assignmentname": "EMCap",
+      "assignmenttype": "Training",
+      "projectmanager": "Karthik M",
+      "code": "100848647",
+      "startdate": "2023-04-16",
+      "enddate": "2023-04-26"
+    }
+  ],
+  "user": [
+    {
+      "id": "adminuser",
+      "name": "Nihira",
+      "password": "admin",
+      "email": "nihiratechiees@gmail.com",
+      "phone": "8989898989",
+      "country": "usa",
+      "address": "",
+      "role": "admin",
+      "gender": "female"
+    },
+    {
+      "id": "ntuser",
+      "name": "Fullname",
+      "password": "ntuser",
+      "email": "email@email.com",
+      "phone": "56778889989",
+      "country": "singapore",
+      "address": "address1\naddrees2",
+      "role": "user",
+      "gender": "male"
+    },
+    {
+      "id": "chan",
+      "name": "chandana",
+      "password": "chan",
+      "email": "chan@gmail.com",
+      "phone": "6767676767",
+      "country": "india",
+      "address": "jhdjf",
+      "gender": "female"
+    }
+  ]
+}
